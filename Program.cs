@@ -81,7 +81,7 @@ namespace GerenciamentoFuncionarios
                 Console.WriteLine($"{f.Id}, {f.Nome}, {f.Salario:F2}");
             }
 
-
+           
         }
     }
 }
